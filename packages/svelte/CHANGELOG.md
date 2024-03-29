@@ -1,5 +1,11 @@
 # svelte
 
+## 5.0.0-next.89
+
+### Patch Changes
+
+- fix: revert SSR shorthand comments ([#10980](https://github.com/sveltejs/svelte/pull/10980))
+
 ## 5.0.0-next.88
 
 ### Patch Changes
